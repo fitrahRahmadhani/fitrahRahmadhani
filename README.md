@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fitrah Rahmadhani</h1>
-<h3 align="center">Interested and passionate about learning programming and design</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000CD,100:9400D3&height=120&section=header" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A636FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Fitrah+Rahmadhani;Student+at+State+Polytechnic+of+Malang;Interested+and+Passionate+About+Learning+Programming+and+Design;Have+a+Nice+Day+%3A+)" alt="Typing SVG" /></a>  
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A636FF00&center=true&vCenter=true&width=435&lines=Hello" alt="Typing SVG" /></a>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fitrahRahmadhani&show_icons=true&count_private=true&hide_border=true&title_color=A636FFFF&icon_color=A636FFFF&text_color=c9d1d9&bg_color=191970" alt="Fitrah github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitrahRahmadhani&layout=compact&hide_border=true&title_color=A636FFFF&text_color=A636FFFF&bg_color=191970" />
+</div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fitrahrahmadhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fitrahrahmadhani" height="30" width="40" /></a>
