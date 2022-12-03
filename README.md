@@ -19,7 +19,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitrahRahmadhani&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=22272E" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fitrahRahmadhani&bg_color=22272e&color=c9d1d9&line=36bcf7&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fitrah's github activity graph](https://activity-graph.herokuapp.com/graph?username=fitrahRahmadhani&bg_color=22272e&color=c9d1d9&line=36bcf7&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://linkedin.com/in/fitrahrahmadhani" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
